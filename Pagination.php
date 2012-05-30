@@ -4,7 +4,7 @@
  *
  * @package Pagination
  * @author  tatsuya.tsuruoka@gmail.com
- * @version $Id$
+ * @url     https://github.com/ttsuruoka/php-pagination
  */
 class Pagination
 {
