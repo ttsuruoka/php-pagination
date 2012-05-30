@@ -1,5 +1,5 @@
 <?php
-require_once dirname(dirname(__FILE__)).'/Pagination.php';
+require_once dirname(__DIR__).'/Pagination.php';
 
 class PaginationTest extends PHPUnit_Framework_TestCase
 {
